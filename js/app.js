@@ -15,3 +15,5 @@
 		btn[i].addEventListener('click', backgroundColors, false);
 	}
 })(window, document);
+
+localStorage();
