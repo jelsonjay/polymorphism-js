@@ -16,4 +16,5 @@
 	}
 })(window, document);
 
-localStorage();
+//localStorage.setItem('colors', 'Background');
+localStorage.removeItem('colors', 'Background');
